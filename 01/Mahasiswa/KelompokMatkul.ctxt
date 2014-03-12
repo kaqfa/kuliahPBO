@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=kodeKelompok\ matkul
+comment0.target=KelompokMatkul(java.lang.String,\ java.lang.String)
+comment1.params=mhsKomting
+comment1.target=void\ setKomting(Mahasiswa)
+comment2.params=mhsInput
+comment2.target=void\ inputMhs(Mahasiswa)
+comment3.params=
+comment3.target=void\ printAllMhs()
+numComments=4

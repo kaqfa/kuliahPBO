@@ -13,7 +13,28 @@ public class Mahasiswa
     int semester;
     double ipk;
     
+    public void printIdentitas(){
+        System.out.println(nim+" - "+nama+" - "+email);
+    }
+    
+    public void printIdentitas(String pesan){
+        System.out.println(nim+" - "+nama+" - "+email);
+        System.out.println(pesan);
+    }
+    
     Mahasiswa (){
+        
+    }
+    
+    Mahasiswa (String nim){
+    
+    }
+    
+    Mahasiswa (String nim, String nama){
+    
+    }
+    
+    Mahasiswa (String nim, String nama, String email){
     
     }
     
@@ -66,16 +87,6 @@ public class Mahasiswa
     }
     
     void statusMhs(){
-        if(ipk < 1){
-            System.out.println("Belum jadi mahasiswa");
-        } else if(ipk < 2){
-            System.out.println("IPK NASAKOM");
-        } else if(ipk < 3){
-            System.out.println("Mahasiswa kurang beruntung");
-        } else if(ipk < 3.5){
-            System.out.println("Sudah cukup");
-        } else {
-            System.out.println("Summa Cumlaude");
-        }
+        
     }
 }
