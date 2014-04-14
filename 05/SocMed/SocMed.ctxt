@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SocMed()
+comment1.params=username\ status
+comment1.target=void\ addPost(java.lang.String,\ java.lang.String)
+comment2.params=username\ status\ imageURL
+comment2.target=void\ addImagePost(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=username\ status\ linkURL
+comment3.target=void\ addLinkPost(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ newsFeed()
+comment5.params=postIndex\ comment
+comment5.target=void\ addComment(int,\ java.lang.String)
+comment6.params=postIndex
+comment6.target=void\ likePost(int)
+numComments=7

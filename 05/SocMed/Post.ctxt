@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Post()
+comment1.params=username\ status
+comment1.target=Post(java.lang.String,\ java.lang.String)
+comment2.params=username\ status
+comment2.target=void\ postStatus(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ likeThis()
+comment4.params=comment
+comment4.target=void\ addComment(java.lang.String)
+comment5.params=
+comment5.target=void\ display()
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=username\ status\ imageURL
+comment0.target=ImagePost(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=username\ status\ imageURL
+comment1.target=void\ imagePost(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

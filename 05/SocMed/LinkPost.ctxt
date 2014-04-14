@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=username\ status\ linkURL
+comment0.target=LinkPost(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=username\ status\ linkURL
+comment1.target=void\ linkPost(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
