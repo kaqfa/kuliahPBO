@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=kode\ nama\ kontak
+comment0.target=Anggota(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ laporan()
+numComments=2

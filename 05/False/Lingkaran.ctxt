@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Lingkaran(double)
+comment1.params=radius
+comment1.target=void\ setDiameter(double)
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=double\ getPerimeter()
+numComments=4

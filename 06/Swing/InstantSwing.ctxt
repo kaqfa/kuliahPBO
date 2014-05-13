@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InstantSwing()
+comment1.params=
+comment1.target=void\ initUI()
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ show()
+numComments=4
